@@ -1,10 +1,11 @@
-<h2 align="left">Hi 👋! My name is Nossa and I'm a from the United States</h2>
+
 
 ###
 
 <div align="center">
   <img height="800" src="https://preview.redd.it/4h4k8ei7kk761.jpg?auto=webp&s=c444855f7d081aa9ed305613a8954cd57f75d61f"  />
 </div>
+<h1 align="center">Hey! 🚀 I’m NossaGTS—mastering code and leveling up in cybersecurity. 💻 | Coding, hacking, and chilling.</h1>
 
 ###
 
