@@ -15,18 +15,15 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/w2mDLCE2hfgAAAAC/mugen-pt.gif"  />
+<div align="center">
+<img align="center" height="150" src="https://media1.tenor.com/m/w2mDLCE2hfgAAAAC/mugen-pt.gif"  />
+<img align="center" height="150" src="https://media1.tenor.com/m/8VVnaZOItQoAAAAC/1mposter-imposter.gif"  />
+<img align="center" height="150" src="https://media1.tenor.com/m/fOYMzCExU6UAAAAC/sokaya-kenzo.gif"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/8VVnaZOItQoAAAAC/1mposter-imposter.gif"  />
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/fOYMzCExU6UAAAAC/sokaya-kenzo.gif"  />
-
-###
-
+<br clear="both">
 <br clear="both">
 
 <div align="center">
